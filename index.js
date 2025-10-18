@@ -19,7 +19,7 @@ let user = {
     name: "Ajao Peter Oluwafemi",
     stack: "Node.js/Express"
 }
-    const status = "Success";
+    const status = "success";
 
 
 
